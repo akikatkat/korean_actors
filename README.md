@@ -14,8 +14,8 @@
   * To create a user-friendly interface for uploading survey data and viewing analysis results.
 ---
 ## **References:** 
-* **GDB Codelink:** https://onlinegdb.com/3UFcq2Rk 
-* **Encapsulation:** https://docs.python.org/3/tutorial/classes.html 
-* **Inheritance:** https://docs.python.org/3/tutorial/classes.html (Section 9.3) (Section 9.2) 
-* **Polymorphism:** https://stackoverflow.com/questions/12031018/overriding-in-python 
-* **super():** https://realpython.com/python-super/#an-overview-of-pythons-super-function
+* [Online GDB link](https://onlinegdb.com/3UFcq2Rk) 
+* [Encapsulation](https://docs.python.org/3/tutorial/classes.html)
+* [Inheritance](https://docs.python.org/3/tutorial/classes.html) (Section 9.3) (Section 9.2)
+* [Polymorphism](https://stackoverflow.com/questions/12031018/overriding-in-python)
+* [super()](https://realpython.com/python-super/#an-overview-of-pythons-super-function)
